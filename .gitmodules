@@ -2,3 +2,7 @@
 	path = dojos
 	url = https://github.com/Saipos/dojos
     branch = master
+[submodule "_posts"]
+	path = _posts
+	url = https://github.com/Saipos/englishtalks
+	branch = master
