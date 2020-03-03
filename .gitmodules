@@ -1,3 +1,4 @@
 [submodule "dojos"]
 	path = dojos
 	url = https://github.com/Saipos/dojos
+    branch = master
